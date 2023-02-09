@@ -1,0 +1,19 @@
+{
+  "name": "bs4-navigation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build --no-minify --no-source-maps index.html --public-url ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.6.3",
+    "parcel": "^2.8.3",
+    "popper.js": "^1.16.1"
+  }
+}
