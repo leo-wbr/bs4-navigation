@@ -2,10 +2,10 @@
   "name": "bs4-navigation",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build --no-minify --no-source-maps index.html --public-url ./"
+    "build": "parcel build --no-source-maps index.html --public-url ./"
   },
   "keywords": [],
   "author": "",
