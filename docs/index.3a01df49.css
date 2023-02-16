@@ -1,8 +1,4 @@
-body {
-  background-color: #ececec;
-}
-
-.nav-container {
+.navbar {
   background-color: #bcbcbc;
 }
 
@@ -24,7 +20,7 @@ body {
 
 @media (min-width: 768px) {
   .w-md-100 {
-    width: inherit !important;
+    width: auto !important;
   }
 }
 
